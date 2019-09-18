@@ -12,6 +12,8 @@ public class PollControlPanel extends JPanel
   private JButton button1, button2, button3;
   private PollDisplayPanel chartPanel;
 
+
+
   public PollControlPanel(PollDisplayPanel chart)
   {
     chartPanel = chart;
